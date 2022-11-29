@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+#Problem : Recieve miles and convert to kilometers
+miles = input("Enter miles You wish to convert ")
+
+#kilometers = miles * 1.60934
+miles = float(miles)
+kilometers = miles * 1.60934
+#Enter Miles 5
+print("{} miles equals {} kilometers".format(miles, kilometers))
+#5 miles equals 8.04 kilometres
+
