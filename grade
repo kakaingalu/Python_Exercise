@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # store user input
-age = eval(input("Please enter your age: ")
+age = eval(input("Please enter your age: "))
 # If age is 5 Go to Kindergarten 
 if age < 5:
     print("Too young for school")
