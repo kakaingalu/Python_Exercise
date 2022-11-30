@@ -1,6 +1,6 @@
 ## Python Exercises
 
-#Description
+# Description
 These problems solved from various challenges found across the internet.
 
 # Table of Contents
